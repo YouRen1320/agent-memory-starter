@@ -1,0 +1,6 @@
+# Ignore AI memory files if you want a private local-only workflow
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
+/MEMORY.md
+/memory/
