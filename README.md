@@ -6,6 +6,12 @@
 
 An open-source starter for `Codex`, `Claude Code`, and `Antigravity` that organizes project rules, durable memory, and daily logs while keeping native startup entrypoints for each tool.
 
+## 与 Agent Project Kit 的区别
+
+- 本仓库是轻量的“规则与记忆”起步模板，适合只想统一 `AGENTS.md`、工具桥接文件和每日记录的项目。
+- [agent-project-kit](https://github.com/YouRen1320/agent-project-kit) 是更完整的项目治理模板，包含需求、架构、测试、发布、安全与交接资料，以及对应的自动验证。
+- 两者不需要同时安装：只需要记忆骨架时选本仓库；希望建立完整工程协作基线时选 `agent-project-kit`。
+
 ## Why This Exists
 
 ### 中文
